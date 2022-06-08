@@ -1,0 +1,9 @@
+.home{
+    -fx-background-image: url("./ezgif.com-gif-maker.jpg");
+    -fx-background-image-width: 400px;
+
+
+}
+.button{
+    -fx-background-color: #000;
+}
